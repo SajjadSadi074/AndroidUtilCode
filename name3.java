@@ -1,11 +1,11 @@
 public class name3 {
     int e,f;
 
-    public int getE() {
-        return e;
+    public int getF() {
+        return f;
     }
 
-    public void setE(int e) {
-        this.e = e;
+    public void setF(int f) {
+        this.f = f;
     }
 }
