@@ -1,6 +1,5 @@
 public class here {
     int a,b;
-
     public int getB() {
         return b;
     }
